@@ -15,7 +15,7 @@ Skills: HTML / CSS / Bootstrap / JavaScript / React JS / Redux / Material UI / N
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum2212&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum2212&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masum2212&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masum2212)  
 
