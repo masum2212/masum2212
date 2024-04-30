@@ -1,4 +1,4 @@
-### Hi there 👋, Hello! This is Masum Billah
+###Hello! This is Masum Billah,
 #### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQHuh-PhL3DUjw/profile-displaybackgroundimage-shrink_350_1400/0/1714110888051?e=1720051200&v=beta&t=mW0Z86nRYXtkbG_-4BoA2DQDQVbSQgyekr2a493fdxc)
 
